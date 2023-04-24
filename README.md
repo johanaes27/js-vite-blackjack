@@ -3,11 +3,11 @@
 Pasos para ejecutar proyecto: 
 
 1. Clonar repositorio
-2. Ejecutar ````npm install``` para reconstruir los módulos de node
+2. Ejecutar ```npm install``` para reconstruir los módulos de node
 3. Correr el devServer ```npm runDev```
 4. Abrir el proyecyo en: ```localhost:3000```
 
 ## Producción
 
 1. Ejecutar ```npm run build```
-2. Tomar la carpeta ````dist``` y desplegarla
+2. Tomar la carpeta ```dist``` y desplegarla
